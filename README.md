@@ -9,7 +9,7 @@ The app displays inspiring quotes with animated text, crossfading background ima
 
 🔗 View Demo
 
-(Replace with your hosted link if available)
+[(Replace with your hosted link if available)](https://mariaigosheva.github.io/quote-generator/)
 
 ---
 
