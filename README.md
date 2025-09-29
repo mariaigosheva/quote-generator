@@ -1,11 +1,11 @@
-##🌟 Modern Quote Generator – Interactive Web App
+## 🌟 Modern Quote Generator – Interactive Web App
 
 This repository (modern-quote-generator) contains a modern, interactive quote generator.
 The app displays inspiring quotes with animated text, crossfading background images, and a glassmorphic quote box. Users can click the quote box to see the next random quote.
 
 ---
 
-##🚀 Live Demo
+## 🚀 Live Demo
 
 🔗 View Demo
 
@@ -13,7 +13,7 @@ The app displays inspiring quotes with animated text, crossfading background ima
 
 ---
 
-##✨ Features
+## ✨ Features
 
 - **Random Quotes** – A collection of motivational and inspiring quotes.
 
@@ -29,7 +29,7 @@ The app displays inspiring quotes with animated text, crossfading background ima
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **HTML5** – Semantic markup for structure and accessibility.
 
@@ -39,7 +39,7 @@ The app displays inspiring quotes with animated text, crossfading background ima
 
 ---
 
-##🎨 Notes
+## 🎨 Notes
 
 Fully manual interaction; no autoplay or sound.
 
@@ -51,6 +51,6 @@ Easily customizable: add more quotes, background images, or change text styles.
 
 ---
 
-##📂 Project Status
+## 📂 Project Status
 
 ✅ Complete
