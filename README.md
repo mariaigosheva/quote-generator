@@ -6,10 +6,7 @@ The app displays inspiring quotes with animated text, crossfading background ima
 ---
 
 ## 🚀 Live Demo
-
-🔗 View Demo
-
-[(Replace with your hosted link if available)](https://mariaigosheva.github.io/quote-generator/)
+[🔗 Visit Website](https://mariaigosheva.github.io/quote-generator/)
 
 ---
 
