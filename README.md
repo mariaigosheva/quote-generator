@@ -1,19 +1,23 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🌟 Modern Quote Generator 🌟
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A visually appealing, interactive, and fully responsive quote generator with modern UI effects. Quotes display with animated text and crossfading background images, offering a calm and engaging experience. ✨🖼️
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+🎯 Features
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+📝 Displays random quotes with background images
 
-Happy Coding!
+👆 Click to switch quotes (no auto-shift)
+
+🪟 Glassmorphic quote box with semi-transparent blur effect
+
+✨ Animated text fade-up for smooth transitions
+
+📱 Responsive design for desktop and mobile
+
+🎞️ Modern Ken Burns effect on background images
+
+⚡ Fully minimal and interactive (no buttons, no sound)
+
+📸 Demo
+
+Add a screenshot or link to a live demo here
