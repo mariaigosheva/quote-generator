@@ -1,37 +1,45 @@
-🌟 Modern Quote Generator – Interactive Web App
+##🌟 Modern Quote Generator – Interactive Web App
 
 This repository (modern-quote-generator) contains a modern, interactive quote generator.
 The app displays inspiring quotes with animated text, crossfading background images, and a glassmorphic quote box. Users can click the quote box to see the next random quote.
 
-🚀 Live Demo
+---
+
+##🚀 Live Demo
 
 🔗 View Demo
 
 (Replace with your hosted link if available)
 
-✨ Features
+---
 
-📝 Random Quotes – A collection of motivational and inspiring quotes.
+##✨ Features
 
-🎨 Animated Backgrounds – Crossfading images with subtle Ken Burns effect.
+- **Random Quotes** – A collection of motivational and inspiring quotes.
 
-🪟 Glassmorphic Quote Box – Semi-transparent, modern design with blurred background.
+- **Animated Backgrounds** – Crossfading images with subtle Ken Burns effect.
 
-✨ Text Animations – Smooth fade-up effect for quotes and authors.
+- **Glassmorphic Quote Box** – Semi-transparent, modern design with blurred background.
 
-👆 Manual Interaction – Click the quote box to display a new random quote.
+- **Text Animations** – Smooth fade-up effect for quotes and authors.
 
-📱 Responsive Design – Works perfectly on desktop, tablet, and mobile.
+- **Manual Interaction** – Click the quote box to display a new random quote.
 
-🛠️ Tech Stack
+- **Responsive Design** – Works perfectly on desktop, tablet, and mobile.
 
-HTML5 – Semantic markup for structure and accessibility.
+---
 
-CSS3 – Glassmorphism, animations, and responsive styling.
+##🛠️ Tech Stack
 
-JavaScript (Vanilla) – Randomized quotes, crossfade backgrounds, and manual click functionality.
+- **HTML5** – Semantic markup for structure and accessibility.
 
-🎨 Notes
+- **CSS3** – Glassmorphism, animations, and responsive styling.
+
+- **JavaScript (Vanilla)** – Randomized quotes, crossfade backgrounds, and manual click functionality.
+
+---
+
+##🎨 Notes
 
 Fully manual interaction; no autoplay or sound.
 
@@ -41,6 +49,8 @@ Background tinting ensures text readability on different images.
 
 Easily customizable: add more quotes, background images, or change text styles.
 
-📂 Project Status
+---
 
-✅ Complete – Modern, minimal, and interactive quote generator ready for portfolio or personal use.
+##📂 Project Status
+
+✅ Complete
