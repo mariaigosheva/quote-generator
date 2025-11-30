@@ -30,13 +30,11 @@ The app displays inspiring quotes with animated text, crossfading background ima
 
 - **CSS3** – Glassmorphism, animations, and responsive styling.
 
-- **JavaScript (Vanilla)** – Randomized quotes, crossfade backgrounds, and manual click functionality.
+- **JavaScript (Vanilla)** – Randomized quotes, crossfade backgrounds.
 
 ---
 
 ## 🎨 Notes
-
-Fully manual interaction; no autoplay or sound.
 
 Crossfade effect uses two overlay layers for smooth transitions.
 
