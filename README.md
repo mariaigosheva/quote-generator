@@ -20,8 +20,6 @@ The app displays inspiring quotes with animated text, crossfading background ima
 
 - **Text Animations** – Smooth fade-up effect for quotes and authors.
 
-- **Manual Interaction** – Click the quote box to display a new random quote.
-
 - **Responsive Design** – Works perfectly on desktop, tablet, and mobile.
 
 ---
